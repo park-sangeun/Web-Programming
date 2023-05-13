@@ -1,6 +1,5 @@
 # Web-Programming
->&lt;
-웹프로그래밍 실습과제인 개인 profolio 제작 코드이.
+>웹프로그래밍 실습과제인 개인 profolio 제작 코드이다.
 
 [설명] \
 header는 마우스오버 방식을 사용하여 글씨가 나타난다. \
